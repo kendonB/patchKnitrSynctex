@@ -1,0 +1,9 @@
+Package: patchKnitrSynctex
+Type: Package
+Title: Patch synctex files for use with .Rnw files.
+Version: 0.1
+Date: 2015-02-16
+Authors@R: person("Kendon", "Bell", email = "kmb56@berkeley.edu",
+                  role = c("aut", "cre"))
+License: MIT
+LazyData: TRUE
